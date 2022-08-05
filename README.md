@@ -8,7 +8,7 @@ Here You can find more information on the calligraphy experiment, and how to sig
 
 We are looking into how a tablet + stylus pen and custom software can support an expert with teaching a student, respecting the conditions of deliberate practice. 
 
-Deliberate practice is a type of practice in which the student is closely guided by the teacher who is required to be an expert. The Calligraphy Trainer software was built to support the expert during deliberate practice by automating repetitive tasks. We will look into how the CaT can help with automating aspects of the expert's guidance, allowing a student to do deliberate practice without an expert attentively present the entire time.
+Deliberate practice is a type of practice in which the student is closely guided by the teacher who is required to be an expert. The Calligraphy Trainer software was built to support the expert during deliberate practice by automating repetitive tasks. We will look into how the Calligraphy Trainer can help with automating aspects of the expert's guidance, allowing a student to do deliberate practice without an expert attentively present the entire time.
 
 ### Experiment details
 
