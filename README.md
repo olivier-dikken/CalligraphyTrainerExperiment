@@ -2,7 +2,7 @@
 
 Here You can find more information on the calligraphy experiment, and how to sign up.
 
-![Calligraphy Trainer software in use](CalligraphyTrainerExperiment/assets/CaT_photo_2022-08-05_10-18-32.jpg)
+![Calligraphy Trainer software in use](/CalligraphyTrainerExperiment/assets/CaT_photo_2022-08-05_10-18-32.jpg)
 
 
 ## Research information
