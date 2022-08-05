@@ -16,8 +16,5 @@ Deliberate practice is a type of conscious practice in which the student is clos
 Your support is highly appreciated, and you will be compensated for your time (10 euro bol.com voucher/hr).
 Please contact: calligraphyexperiment@gmail.com
 
-### Experiment Session details
-
-We will be asking you to practice predetermined calligraphy exercises with a digital tablet and pen for 3
-distinct 15 minute sessions, and conduct a short pre-test before the first and post-test after the last session.
+You will be breifed on the details and can withdraw from the study anytime you choose to do so.
 
