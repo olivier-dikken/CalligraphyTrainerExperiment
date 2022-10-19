@@ -14,7 +14,7 @@ We are looking into how a sensor-based technology can support an expert facilita
 Deliberate practice is a type of conscious practice in which the student is closely guided by an expert teacher. As a participant you will either, practice writing Chinese characters with a teacher or practice with our custom application. We intend to evaluate the application’s potential in supporting deliberate practice and not your ability to learn Chinese characters.
 
 Your support is highly appreciated, and you will be compensated for your time (10 euro bol.com voucher/hr).
-Please contact: calligraphyexperiment@gmail.com
+Please contact: **calligraphyexperiment@gmail.com**
 
 You will be breifed on the details and can withdraw from the study anytime you choose to do so.
 
